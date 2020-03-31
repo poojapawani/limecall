@@ -1,0 +1,13 @@
+03/31/2020 01:52:00 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/31/2020 01:52:00 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/31/2020 01:52:00 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/31/2020 01:52:00 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/31/2020 01:52:00 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/31/2020 01:52:00 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/31/2020 01:53:05 PM - LoginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+03/31/2020 01:53:05 PM - LoginPage - INFO: Element present
+03/31/2020 01:53:05 PM - WidgetDesign - INFO: Element found with locator: //label[contains(text(),'Widget')] and  locatorType: xpath
+03/31/2020 01:53:09 PM - WidgetDesign - INFO: Clicked on element with locator //label[contains(text(),'Widget')] locatortype:  xpath
+03/31/2020 01:53:10 PM - WidgetDesign - INFO: Element found with locator: //a[@data-target='#widgetTemplate'] and  locatorType: xpath
+03/31/2020 01:53:10 PM - WidgetDesign - INFO: Cannot click on the element with locator //a[@data-target='#widgetTemplate'] locatortype:  xpath
+03/31/2020 01:53:10 PM - WidgetDesign - INFO: Element not found with locator: template_type and  locatorType: name

@@ -1,0 +1,329 @@
+03/09/2020 02:54:10 PM - LoginPage - INFO: Element found
+03/09/2020 02:54:10 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 02:54:10 PM - LoginPage - INFO: Element found
+03/09/2020 02:54:10 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 02:54:10 PM - LoginPage - INFO: Element found
+03/09/2020 02:54:11 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 02:54:19 PM - LoginPage - INFO: Element found
+03/09/2020 02:54:47 PM - LoginPage - INFO: Element found
+03/09/2020 02:54:47 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 02:54:47 PM - LoginPage - INFO: Element found
+03/09/2020 02:54:48 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 02:54:48 PM - LoginPage - INFO: Element found
+03/09/2020 02:54:48 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 02:54:53 PM - LoginPage - INFO: Element not found
+03/09/2020 03:37:09 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 03:37:09 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 03:37:09 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 03:37:10 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 03:37:10 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 03:37:10 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 03:37:17 PM - LoginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+03/09/2020 03:37:17 PM - LoginPage - INFO: Element present
+03/09/2020 03:37:17 PM - LoginPage - INFO: Login Successful
+03/09/2020 03:37:37 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 03:37:37 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 03:37:37 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 03:37:37 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 03:37:37 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 03:37:37 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 03:37:42 PM - LoginPage - INFO: Element not found with locator: pageTitle and  locatorType: id
+03/09/2020 03:37:42 PM - LoginPage - INFO: Element not present
+03/09/2020 03:38:47 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 03:38:47 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 03:38:47 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 03:38:48 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 03:38:48 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 03:38:48 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 03:39:05 PM - LoginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+03/09/2020 03:39:05 PM - LoginPage - INFO: Element present
+03/09/2020 03:39:05 PM - LoginPage - INFO: Login Successful
+03/09/2020 03:39:25 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 03:39:25 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 03:39:25 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 03:39:25 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 03:39:25 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 03:39:25 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 03:39:30 PM - LoginPage - INFO: Element not found with locator: pageTitle and  locatorType: id
+03/09/2020 03:39:30 PM - LoginPage - INFO: Element not present
+03/09/2020 03:39:30 PM - LoginPage - INFO: Login Failed
+03/09/2020 03:46:46 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 03:46:47 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 03:46:47 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 03:46:47 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 03:46:47 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 03:46:47 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 03:46:55 PM - LoginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+03/09/2020 03:46:55 PM - LoginPage - INFO: Element present
+03/09/2020 03:47:12 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 03:47:13 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 03:47:13 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 03:47:13 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 03:47:13 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 03:47:13 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 03:47:18 PM - LoginPage - INFO: Element not found with locator: pageTitle and  locatorType: id
+03/09/2020 03:47:18 PM - LoginPage - INFO: Element not present
+03/09/2020 05:39:24 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 05:39:24 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 05:39:24 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 05:39:24 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 05:39:24 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 05:39:24 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 05:39:32 PM - LoginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+03/09/2020 05:39:32 PM - LoginPage - INFO: Element present
+03/09/2020 05:39:48 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 05:39:48 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 05:39:48 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 05:39:49 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 05:39:49 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 05:39:49 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 05:39:54 PM - LoginPage - INFO: Element not found with locator: pageTitle and  locatorType: id
+03/09/2020 05:39:54 PM - LoginPage - INFO: Element not present
+03/09/2020 05:40:14 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 05:40:14 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 05:40:14 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 05:40:14 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 05:40:14 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 05:40:14 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 05:40:18 PM - LoginPage - INFO: Element found with locator: //*[text()='Invalid Email or Password'] and  locatorType: xpath
+03/09/2020 05:40:18 PM - LoginPage - INFO: Element present
+03/09/2020 05:41:14 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 05:41:14 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 05:41:14 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 05:41:14 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 05:41:14 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 05:41:15 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 05:41:19 PM - LoginPage - INFO: Element found with locator: //*[text()='Invalid Email or Password'] and  locatorType: xpath
+03/09/2020 05:41:19 PM - LoginPage - INFO: Element present
+03/09/2020 05:48:17 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 05:48:17 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 05:48:17 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 05:48:17 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 05:48:17 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 05:48:17 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 05:48:21 PM - LoginPage - INFO: Element found with locator: //*[text()='Invalid Email or Password'] and  locatorType: xpath
+03/09/2020 05:48:21 PM - LoginPage - INFO: Element present
+03/09/2020 05:49:09 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 05:49:09 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 05:49:09 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 05:49:09 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 05:49:09 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 05:49:09 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 05:49:14 PM - LoginPage - INFO: Element not found with locator: pageTitle and  locatorType: id
+03/09/2020 05:49:14 PM - LoginPage - INFO: Element not present
+03/09/2020 05:49:30 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 05:49:30 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 05:49:30 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 05:49:30 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 05:49:30 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 05:49:30 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 05:49:34 PM - LoginPage - INFO: Element found with locator: //*[text()='Invalid Email or Password'] and  locatorType: xpath
+03/09/2020 05:49:34 PM - LoginPage - INFO: Element present
+03/09/2020 05:49:53 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 05:49:54 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 05:49:54 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 05:49:54 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 05:49:54 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 05:49:54 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 05:50:02 PM - LoginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+03/09/2020 05:50:02 PM - LoginPage - INFO: Element present
+03/09/2020 10:51:41 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 10:51:41 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 10:51:41 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 10:51:41 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 10:51:41 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 10:51:41 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 10:51:42 PM - LoginPage - INFO: Element found with locator: login-username-error and  locatorType: id
+03/09/2020 10:55:41 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 10:55:41 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 10:55:41 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 10:55:41 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 10:55:41 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 10:55:41 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 10:55:41 PM - LoginPage - INFO: Element found with locator: login-username-error and  locatorType: id
+03/09/2020 10:59:58 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 10:59:58 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 10:59:58 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 10:59:58 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 10:59:58 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 10:59:58 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 10:59:58 PM - LoginPage - INFO: Element found with locator: login-username-error and  locatorType: id
+03/09/2020 11:00:21 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/09/2020 11:00:21 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/09/2020 11:00:21 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/09/2020 11:00:22 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/09/2020 11:00:22 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/09/2020 11:00:22 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/09/2020 11:00:22 PM - LoginPage - INFO: Element found with locator: login-password-error and  locatorType: id
+03/10/2020 08:35:43 AM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/10/2020 08:35:43 AM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/10/2020 08:35:43 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/10/2020 08:35:43 AM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/10/2020 08:35:43 AM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/10/2020 08:35:43 AM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/10/2020 08:36:17 AM - LoginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+03/10/2020 08:36:17 AM - LoginPage - INFO: Element present
+03/10/2020 08:36:52 AM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/10/2020 08:36:53 AM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/10/2020 08:36:53 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/10/2020 08:36:53 AM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/10/2020 08:36:53 AM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/10/2020 08:36:53 AM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/10/2020 08:37:03 AM - LoginPage - INFO: Element not found with locator: pageTitle and  locatorType: id
+03/10/2020 08:37:03 AM - LoginPage - INFO: Element not present
+03/10/2020 08:37:26 AM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/10/2020 08:37:26 AM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/10/2020 08:37:26 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/10/2020 08:37:26 AM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/10/2020 08:37:26 AM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/10/2020 08:37:26 AM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/10/2020 08:37:30 AM - LoginPage - INFO: Element found with locator: //*[text()='Invalid Email or Password'] and  locatorType: xpath
+03/10/2020 08:37:30 AM - LoginPage - INFO: Element present
+03/10/2020 08:38:36 AM - LoginPage - INFO: Element not found with locator: login-username and  locatorType: id
+03/10/2020 08:38:36 AM - LoginPage - INFO: Cannot send data on the element with locator login-username locatortype:  id
+03/10/2020 08:38:36 AM - LoginPage - INFO: Element not found with locator: login-password and  locatorType: id
+03/10/2020 08:38:36 AM - LoginPage - INFO: Cannot send data on the element with locator login-password locatortype:  id
+03/10/2020 08:38:36 AM - LoginPage - INFO: Element not found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/10/2020 08:38:36 AM - LoginPage - INFO: Cannot click on the element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/10/2020 08:38:41 AM - LoginPage - INFO: Element not found with locator: login-username-error and  locatorType: id
+03/10/2020 08:39:11 AM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/10/2020 08:39:11 AM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/10/2020 08:39:11 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/10/2020 08:39:11 AM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/10/2020 08:39:12 AM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/10/2020 08:39:12 AM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/10/2020 08:39:12 AM - LoginPage - INFO: Element found with locator: login-username-error and  locatorType: id
+03/10/2020 08:39:37 AM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/10/2020 08:39:37 AM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/10/2020 08:39:37 AM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/10/2020 08:39:37 AM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/10/2020 08:39:37 AM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/10/2020 08:39:38 AM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/10/2020 08:39:38 AM - LoginPage - INFO: Element found with locator: login-password-error and  locatorType: id
+03/11/2020 12:37:13 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 12:37:13 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 12:37:13 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 12:37:13 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 12:37:14 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 12:37:14 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 12:37:19 PM - LoginPage - INFO: Element not found with locator: pageTitle and  locatorType: id
+03/11/2020 12:37:19 PM - LoginPage - INFO: Element not present
+03/11/2020 12:41:16 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 12:41:16 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 12:41:16 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 12:41:16 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 12:41:16 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 12:41:17 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 12:41:22 PM - LoginPage - INFO: Element not found with locator: pageTitle and  locatorType: id
+03/11/2020 12:41:22 PM - LoginPage - INFO: Element not present
+03/11/2020 12:41:40 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 12:41:40 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 12:41:40 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 12:41:40 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 12:41:40 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 12:41:41 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 12:41:41 PM - LoginPage - INFO: Element found with locator: login-username-error and  locatorType: id
+03/11/2020 12:42:02 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 12:42:02 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 12:42:02 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 12:42:02 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 12:42:02 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 12:42:03 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 12:42:06 PM - LoginPage - INFO: Element found with locator: //*[text()='Invalid Email or Password'] and  locatorType: xpath
+03/11/2020 12:42:06 PM - LoginPage - INFO: Element present
+03/11/2020 12:42:47 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 12:42:47 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 12:42:47 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 12:42:47 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 12:42:47 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 12:42:48 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 12:42:48 PM - LoginPage - INFO: Element found with locator: login-username-error and  locatorType: id
+03/11/2020 12:43:07 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 12:43:08 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 12:43:08 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 12:43:08 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 12:43:08 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 12:43:08 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 12:43:08 PM - LoginPage - INFO: Element found with locator: login-password-error and  locatorType: id
+03/11/2020 12:48:02 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 12:48:02 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 12:48:02 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 12:48:02 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 12:48:02 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 12:48:02 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 12:48:07 PM - LoginPage - INFO: Element not found with locator: pageTitle and  locatorType: id
+03/11/2020 12:48:07 PM - LoginPage - INFO: Element not present
+03/11/2020 12:48:23 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 12:48:23 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 12:48:23 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 12:48:23 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 12:48:23 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 12:48:23 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 12:48:23 PM - LoginPage - INFO: Element found with locator: login-username-error and  locatorType: id
+03/11/2020 09:21:46 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 09:21:48 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 09:21:48 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 09:21:48 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 09:21:48 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 09:21:48 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 09:21:53 PM - LoginPage - INFO: Element not found with locator: pageTitle and  locatorType: id
+03/11/2020 09:21:53 PM - LoginPage - INFO: Element not present
+03/11/2020 09:22:49 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 09:22:49 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 09:22:49 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 09:22:49 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 09:22:49 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 09:22:50 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 09:22:50 PM - LoginPage - INFO: Element found with locator: login-username-error and  locatorType: id
+03/11/2020 09:23:13 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 09:23:14 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 09:23:14 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 09:23:14 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 09:23:14 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 09:23:14 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 09:23:18 PM - LoginPage - INFO: Element found with locator: //*[text()='Invalid Email or Password'] and  locatorType: xpath
+03/11/2020 09:23:18 PM - LoginPage - INFO: Element present
+03/11/2020 09:23:39 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 09:23:39 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 09:23:39 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 09:23:39 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 09:23:39 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 09:23:39 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 09:23:48 PM - LoginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+03/11/2020 09:23:48 PM - LoginPage - INFO: Element present
+03/11/2020 09:24:08 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 09:24:09 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 09:24:09 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 09:24:09 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 09:24:09 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 09:24:09 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 09:24:09 PM - LoginPage - INFO: Element found with locator: login-username-error and  locatorType: id
+03/11/2020 09:24:27 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 09:24:28 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 09:24:28 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 09:24:28 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 09:24:28 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 09:24:28 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 09:24:28 PM - LoginPage - INFO: Element found with locator: login-password-error and  locatorType: id
+03/11/2020 09:29:25 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 09:29:26 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 09:29:26 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 09:29:26 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 09:29:26 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 09:29:26 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 09:29:31 PM - LoginPage - INFO: Element not found with locator: pageTitle and  locatorType: id
+03/11/2020 09:29:31 PM - LoginPage - INFO: Element not present
+03/11/2020 10:22:09 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/11/2020 10:22:10 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/11/2020 10:22:10 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/11/2020 10:22:10 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/11/2020 10:22:10 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 10:22:10 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 10:22:10 PM - LoginPage - INFO: Element found with locator: login-password-error and  locatorType: id
+03/11/2020 10:22:25 PM - LoginPage - INFO: Element not found with locator: login-username and  locatorType: id
+03/11/2020 10:22:25 PM - LoginPage - INFO: Cannot send data on the element with locator login-username locatortype:  id
+03/11/2020 10:22:25 PM - LoginPage - INFO: Element not found with locator: login-password and  locatorType: id
+03/11/2020 10:22:25 PM - LoginPage - INFO: Cannot send data on the element with locator login-password locatortype:  id
+03/11/2020 10:22:25 PM - LoginPage - INFO: Element not found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/11/2020 10:22:25 PM - LoginPage - INFO: Cannot click on the element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/11/2020 10:22:25 PM - LoginPage - INFO: Element not found with locator: login-username-error and  locatorType: id

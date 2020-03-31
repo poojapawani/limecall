@@ -1,0 +1,14 @@
+03/16/2020 12:28:49 PM - LoginPage - INFO: Element found with locator: login-username and  locatorType: id
+03/16/2020 12:28:49 PM - LoginPage - INFO: Sent data on element with locator login-username locatortype:  id
+03/16/2020 12:28:49 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+03/16/2020 12:28:49 PM - LoginPage - INFO: Sent data on element with locator login-password locatortype:  id
+03/16/2020 12:28:49 PM - LoginPage - INFO: Element found with locator: //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] and  locatorType: xpath
+03/16/2020 12:28:49 PM - LoginPage - INFO: Clicked on element with locator //button[@class="btn btn-rounded btn-hero-success btn-block custom-btn-color"] locatortype:  xpath
+03/16/2020 12:29:09 PM - LoginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+03/16/2020 12:29:09 PM - LoginPage - INFO: Element present
+03/16/2020 12:29:09 PM - ContactsPage - INFO: Element found with locator: //label[contains(text(),'Contacts')] and  locatorType: xpath
+03/16/2020 12:29:22 PM - ContactsPage - INFO: Clicked on element with locator //label[contains(text(),'Contacts')] locatortype:  xpath
+03/16/2020 12:29:22 PM - ContactsPage - INFO: Element found with locator: //button[@onclick='openCreateContactModal()'] and  locatorType: xpath
+03/16/2020 12:29:22 PM - ContactsPage - INFO: Clicked on element with locator //button[@onclick='openCreateContactModal()'] locatortype:  xpath
+03/16/2020 12:29:22 PM - ContactsPage - INFO: Element found with locator: individual-contact and  locatorType: id
+03/16/2020 12:29:22 PM - ContactsPage - INFO: Cannot click on the element with locator individual-contact locatortype:  id
