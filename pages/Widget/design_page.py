@@ -12,7 +12,7 @@ class WidgetDesign(SeleniumDriver):
         wd = SeleniumDriver(driver)
 
     #Locators
-    _widget_page = "//label[contains(text(),'Widget')]"
+    _widget_page = "//i[@class='fa fa-align-left']"
     _design_tab = "//a[contains(text(),'Design')]"
     _widget_template = "//a[@data-target='#widgetTemplate']"
     _widget_template_dropdown ="//select[@name='template_type']"
